@@ -67,21 +67,21 @@ const About = () => {
                 <div className='md:col-span-3'>
                     <div className='noisy' />
                     <img
-                        src='/images/abt1.png' alt="grud-img-1" />
+                        src='images/abt1.png' alt="grud-img-1" />
 
                 </div>
 
                 <div className='md:col-span-6'>
                     <div className='noisy' />
                     <img
-                        src='/images/abt2.png' alt="grud-img-2" />
+                        src='images/abt2.png' alt="grud-img-2" />
 
                 </div>
 
                 <div className='md:col-span-3'>
                     <div className='noisy' />
                     <img
-                        src='/images/abt5.png' alt="grud-img-5" />
+                        src='images/abt5.png' alt="grud-img-5" />
 
                 </div>
             </div>
@@ -89,13 +89,13 @@ const About = () => {
                 <div className='md:col-span-8'>
                     <div className='noisy' />
                     <img
-                        src='/images/abt3.png' alt="grud-img-3" />
+                        src='images/abt3.png' alt="grud-img-3" />
                 </div>
 
                 <div className='md:col-span-4'>
                     <div className='noisy' />
                     <img
-                        src='/images/abt4.png' alt="grud-img-4" />
+                        src='images/abt4.png' alt="grud-img-4" />
                 </div>
             </div>
         </div>
